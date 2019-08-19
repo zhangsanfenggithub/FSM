@@ -8,7 +8,7 @@
 ![](https://github.com/zhangsanfenggithub/img/blob/master/Untitled%20Diagram.png?raw=true)
 
 
-##加入新状态
+## 加入新状态
 
 首先需要在**Traision**和**StateId**里面添加相应的通道和状态例如
 
