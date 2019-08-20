@@ -1,5 +1,6 @@
 
 **状态机的图解**
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Finite_state_machine_example_with_comments.svg/420px-Finite_state_machine_example_with_comments.svg.png)
 
 **代码数据结构分析**
@@ -7,7 +8,7 @@
 ![](https://github.com/zhangsanfenggithub/img/blob/master/Untitled%20Diagram.png?raw=true)
 
 
-##加入新状态
+## 加入新状态
 
 首先需要在**Traision**和**StateId**里面添加相应的通道和状态例如
 
