@@ -20,14 +20,14 @@
 
 ## 加入新状态
 
-首先需要在**Traision**和**StateId**里面添加相应的通道和状态例如
+首先需要在`Traision`和`StateId`里面添加相应的通道和状态例如
 
 ```
-	ScarePlayer 通道
-	Escape 逃跑状态
+ScarePlayer 通道
+Escape 逃跑状态
 ```
 
-`FSMState`是一个纯虚类,我们通过声明一个新类如`EscapeState`,然后继承`FSMState`,同时需要重写四个方法:
+`FSMState`是一个纯虚类,我们通过声明一个新类如`EscapeState`，然后继承`FSMState`，同时需要重写四个方法:
 ```
 class EscapeState : FSMState{
 	...//继承的属性和方法
@@ -35,7 +35,7 @@ class EscapeState : FSMState{
 	DoBeforeLeaving(), 
 	Reason(), 
 	Act(),
-	...
+...
 }
 ```
 其中
