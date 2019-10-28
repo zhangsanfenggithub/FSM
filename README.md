@@ -9,7 +9,7 @@
 
 ![](https://github.com/zhangsanfenggithub/img/blob/master/1.jpg?raw=true)
 
-`currentState`表示状态机现在正在执行的状态，`List<FSMState>`用与管理图中存在的所有状态
+`currentState`表示状态机现在正在执行的状态，`List<FSMState>`用于管理图中存在的所有状态
 
 ![](https://github.com/zhangsanfenggithub/img/blob/master/2.jpg?raw=true)
 
