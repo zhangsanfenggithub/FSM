@@ -3,7 +3,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Finite_state_machine_example_with_comments.svg/420px-Finite_state_machine_example_with_comments.svg.png)
 
-## 代码数据结构分析
+## 代码数据结构
 
 `FSMState`类表示当前的状态，使用字典来维护通道-状态的集合，枚举`StateID`表示当前的状态
 
